@@ -14,7 +14,7 @@ This project is part of the Unit 1 content for learning React. It demonstrates h
 ## Project Structure
 
 - `src/App.js`: The main application component containing the game logic.
-- `src/Square.js`: A custom component representing a single square on the game board.
+- `src/Square.jsx`: A custom component representing a single square on the game board.
 - `src/App.css`: Stylesheet for the application.
 - `public/index.html`: Main HTML file where the React app is rendered.
 
